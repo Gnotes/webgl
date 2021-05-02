@@ -16,6 +16,7 @@
 
 ### 参考文档
 
+- [WebGL 规范](https://www.khronos.org/webgl)
 - [OpenGL / WebGL 入门和实践](https://blog.csdn.net/qiwoo_weekly/article/details/102693931)
 - [WebGL1 理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn/)
 - [WebGL2 理论基础](https://webgl2fundamentals.org/webgl/lessons/zh_cn/)
