@@ -6,6 +6,9 @@
 - [GPU & CPU](./docs/gpu-cpu.md)
 - [GLSL](./docs/glsl.md)
 - [WebGL & WebGL2](./docs/webgl-webgl2.md)
+- [Shader & Program](./docs/shader-program.md)
+- [Attribute & Varying & Uniform & Textrue](./docs/attribute-varying-uniform-textrue.md)
+- [Execution Process](./docs/execution-process.md) ※
 
 ### 浏览器WebGL支持程度检测工具
 
