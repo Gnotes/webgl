@@ -12,6 +12,7 @@
 
 ### 数学知识补充
 
+- [高等数学-向量变换](https://www.bilibili.com/video/BV1WE41177BL)
 - [线性代数-矩阵初等变换](https://www.bilibili.com/video/BV1W7411d72n)
 
 ### 浏览器WebGL支持程度检测工具
