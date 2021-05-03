@@ -10,6 +10,10 @@
 - [Attribute & Varying & Uniform & Textrue](./docs/attribute-varying-uniform-textrue.md)
 - [Execution Process](./docs/execution-process.md) ※
 
+### 数学知识补充
+
+- [线性代数-矩阵初等变换](https://www.bilibili.com/video/BV1W7411d72n)
+
 ### 浏览器WebGL支持程度检测工具
 
 - [webglreport](https://github.com/CesiumGS/webglreport)
