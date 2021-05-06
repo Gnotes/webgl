@@ -12,6 +12,7 @@
 
 ### 数学知识补充
 
+- [WebGL学习-数学篇](https://juejin.cn/post/6934256985902678029)
 - [高等数学-向量变换](https://space.bilibili.com/381397739/channel/detail?cid=174858&ctype=0)
 - [线性代数-矩阵初等变换](https://space.bilibili.com/381397739/channel/detail?cid=174857&ctype=0)
 
@@ -21,6 +22,7 @@
 
 ### 参考文档
 
+- [WebGL 概述——原理篇](https://juejin.cn/post/6895603687968899086)
 - [WebGL 规范](https://www.khronos.org/webgl)
 - [OpenGL / WebGL 入门和实践](https://blog.csdn.net/qiwoo_weekly/article/details/102693931)
 - [WebGL1 理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn/)
